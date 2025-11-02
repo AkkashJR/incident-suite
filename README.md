@@ -16,6 +16,5 @@ This repository contains a modular automation suite for incident response and co
 3. Run `app.py` or trigger via Jenkins
 
 ## Author
-
-Joseph Akash – Scholar Trainee & Desktop Support Engineer  
+Akkash joseph rajan – Scholar Trainee & Desktop Support Engineer  
 M.Tech Candidate, BITS Pilani (Graduating Nov 2025)
